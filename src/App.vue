@@ -50,7 +50,6 @@ export default {
         trackArtists: [],
         trackTitle: '',
         trackAlbum: [],
-        trackAlbumName: ''
       },
       storedId: ''
     }
